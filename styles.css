@@ -1,9 +1,9 @@
 h1 {
-  color: black;
+  color: rgb(255, 251, 251);
 }
 
 body {
-  background-color: rgb(255, 251, 251);
+  background-color: rgb(20, 20, 20);
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
@@ -13,5 +13,53 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
-  center
+  text-align: center;
+  margin-top: 115px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.container h1 {
+  color: rgb(255, 251, 251);
+}
+
+.container h2 {
+  color: rgb(255, 251, 251);
+}
+
+.container h3 {
+  color: rgb(255, 251, 251);
+}
+
+.container h4 {
+  color: rgb(255, 251, 251);
+}
+
+.Ra{
+  text-align: center;
+}
+.Ra input {
+  width: 40%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #fcf7f7;
+  border-radius: 15px;
+  background-color: transparent;;
+  color: rgb(255, 251, 251);
+
+}
+
+.Ra:holder {
+  color: rgb(255, 251, 251);
+}
+
+.BTN {
+  background-color: rgb(255, 251, 251);
+  border-radius: 5px;
+  padding: 10px 20px;
+  color: rgb(20, 20, 20);
+  padding: 10px 20px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: transparent;
 }
